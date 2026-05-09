@@ -13,6 +13,7 @@ This could include:
 - Any software dependencies that need to be installed.
 - Instructions and examples for how to use your project, including any helpful code snippets.
 - Common issues and troubleshooting tips
+- duumy info
 
 ## Contribution guidelines
 
