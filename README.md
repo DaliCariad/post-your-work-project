@@ -15,7 +15,7 @@ This could include:
 - Common issues and troubleshooting tips
 - duumy info
 - dummy changes 1
-
+- dummy changes 2
 ## Contribution guidelines
 
 If you welcome contributions, provide guidelines on how others can contribute to your project.
