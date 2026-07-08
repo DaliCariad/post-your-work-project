@@ -3,7 +3,7 @@ name: Continuous Integration
 on: 
   push:
     paths-ignore:
-      - *.md
+      - '*.md'
     branches:
       - main
   
